@@ -289,3 +289,4 @@ We thank Anthropic for building the [anthropic-quickstart](https://github.com/an
 
 * 运行命令：
   - MAC: uv run trae-cli interactive --config-file trae_config.yaml
+  - LINUX: source .venv/bin/activate    trae-cli interactive
